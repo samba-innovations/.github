@@ -1,42 +1,48 @@
-# Samba Innovations
+# Samba Innovations 🚀🌱
 
-Samba Innovations is a forward-thinking technology company focused on creating innovative digital solutions across multiple domains. We are passionate about leveraging technology to solve real-world problems, empower learning, and promote sustainability.
+**Samba Innovations** é uma empresa de tecnologia focada em criar soluções digitais inovadoras em diversos setores. Nosso objetivo é usar tecnologia para resolver problemas reais, potencializar a educação e promover a sustentabilidade.
 
----
-
-## Our Mission
-
-To develop smart, user-centric applications that make a meaningful impact in education, environmental monitoring, and interdisciplinary management.
+**Samba Innovations** is a technology company focused on developing innovative digital solutions across multiple domains. Our mission is to leverage technology to solve real-world problems, empower learning, and promote sustainability.
 
 ---
 
-## Our Projects
+## 🌟 Missão / Mission
 
-| Project | Description |
-|---------|-------------|
-| **Samba Edvance** | Creation and management of educational simulations and assessments to enhance learning outcomes. |
-| **Samba Flourish** | Monitoring and managing green areas using IoT and smart sensor technologies. |
-| **Samba Code** | Management of interdisciplinary occurrences, events, and organizational workflows. |
+Criar aplicações inteligentes e centradas no usuário que gerem impacto positivo na educação, monitoramento ambiental e gestão interdisciplinar.  
+Develop smart, user-centric applications that make a meaningful impact in education, environmental monitoring, and interdisciplinary management.
 
 ---
 
-## Values
+## 📂 Nossos Projetos / Our Projects
 
-- **Innovation:** We constantly explore new technologies and ideas.  
-- **Sustainability:** We aim to create solutions that positively impact the environment.  
-- **Collaboration:** Teamwork and shared knowledge are at the core of everything we do.  
-- **Excellence:** We strive for high-quality, reliable, and efficient solutions.  
-
----
-
-## Get Involved
-
-We welcome contributors, collaborators, and partners! If you’re interested in working with us or learning more about our projects, check out the individual repositories and join our community.
+| Projeto / Project | Logo | Descrição / Description |
+|-----------------|------|------------------------|
+| **Samba Edvance** | ![Edvance Logo](caminho/para/logo-edvance.png) | Criação e gerenciamento de simulados educacionais para melhorar o aprendizado. / Creation and management of educational simulations and assessments to enhance learning outcomes. |
+| **Samba Flourish** | ![Flourish Logo](caminho/para/logo-flourish.png) | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. |
+| **Samba Code** | ![Code Logo](caminho/para/logo-code.png) | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. |
 
 ---
 
-## Contact
+## 💡 Valores / Values
 
+- **Inovação / Innovation:** Estamos sempre explorando novas tecnologias e ideias. / We constantly explore new technologies and ideas.  
+- **Sustentabilidade / Sustainability:** Criamos soluções que impactam positivamente o meio ambiente. / We aim to create solutions that positively impact the environment.  
+- **Colaboração / Collaboration:** Trabalho em equipe e compartilhamento de conhecimento são essenciais. / Teamwork and shared knowledge are at the core of everything we do.  
+- **Excelência / Excellence:** Buscamos soluções confiáveis, eficientes e de alta qualidade. / We strive for high-quality, reliable, and efficient solutions.  
+
+---
+
+## 🤝 Como se envolver / Get Involved
+
+Convidamos colaboradores, parceiros e interessados! Confira os repositórios individuais e participe da nossa comunidade.  
+We welcome contributors, collaborators, and partners! Check out the individual repositories and join our community.
+
+---
+
+## 📬 Contato / Contact
+
+Para dúvidas, parcerias ou informações gerais:  
 For inquiries, collaborations, or general questions:  
-**Email:** contact@sambainnovations.com *(example)*  
-**Website:** [www.sambainnovations.com](https://www.sambainnovations.com) *(example)*
+
+**Email:** contact@sambainnovations.com *(exemplo / example)*  
+**Website:** [www.sambainnovations.com](https://www.sambainnovations.com) *(exemplo / example)*
