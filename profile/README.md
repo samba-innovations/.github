@@ -17,9 +17,9 @@ Develop smart, user-centric applications that make a meaningful impact in educat
 
 | Projeto / Project | Logo | Descrição / Description |
 |-----------------|------|------------------------|
-| **Samba Edvance** | ![Edvance Logo](imgs/edvance-logo1.png) | Criação e gerenciamento de simulados educacionais para melhorar o aprendizado. / Creation and management of educational simulations and assessments to enhance learning outcomes. |
-| **Samba Flourish** | ![Flourish Logo](imgs/flourish-logo1.png) | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. |
-| **Samba Code** | ![Code Logo](imgs/code-logo1.png) | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. |
+| **Samba Edvance** | <img src="imgs/edvance-logo1.png" width="80"/> | Criação e gerenciamento de simulados educacionais para melhorar o aprendizado. / Creation and management of educational simulations and assessments to enhance learning outcomes. |
+| **Samba Flourish** | <img src="imgs/edvance-logo1.png" width="80"/> | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. |
+| **Samba Code** | <img src="imgs/edvance-logo1.png" width="80"/> | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. |
 
 ---
 
