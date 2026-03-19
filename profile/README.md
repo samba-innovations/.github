@@ -1,4 +1,4 @@
-# Samba Innovations ![Innovations Logo](imgs/invtns-logo1.png)
+# Samba Innovations !<img src="imgs/invtns-logo1.png" width="80"/>
 
 **Samba Innovations** é uma empresa de tecnologia focada em criar soluções digitais inovadoras em diversos setores. Nosso objetivo é usar tecnologia para resolver problemas reais, potencializar a educação e promover a sustentabilidade.
 
@@ -18,8 +18,8 @@ Develop smart, user-centric applications that make a meaningful impact in educat
 | Projeto / Project | Logo | Descrição / Description |
 |-----------------|------|------------------------|
 | **Samba Edvance** | <img src="imgs/edvance-logo1.png" width="80"/> | Criação e gerenciamento de simulados educacionais para melhorar o aprendizado. / Creation and management of educational simulations and assessments to enhance learning outcomes. |
-| **Samba Flourish** | <img src="imgs/edvance-logo1.png" width="80"/> | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. |
-| **Samba Code** | <img src="imgs/edvance-logo1.png" width="80"/> | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. |
+| **Samba Flourish** | <img src="imgs/flourish-logo1.png" width="80"/> | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. |
+| **Samba Code** | <img src="imgs/code-logo1.png" width="80"/> | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. |
 
 ---
 
