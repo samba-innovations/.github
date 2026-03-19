@@ -1,8 +1,8 @@
-# <img src="imgs/invtns-logo1.png" width="25"/> Samba Innovations
+# Samba Innovations 🚀🌱 <img src="imgs/invtns-logo1.png" width="25"/>
 
-**Samba Innovations** é uma empresa de tecnologia focada em criar soluções digitais inovadoras em diversos setores. Nosso objetivo é usar tecnologia para resolver problemas reais, potencializar a educação e promover a sustentabilidade.
+**Samba Innovations** é uma empresa de tecnologia dedicada a criar soluções digitais inovadoras em diversos setores. Nosso objetivo é usar tecnologia para resolver problemas reais, potencializar a educação e promover a sustentabilidade.
 
-**Samba Innovations** is a technology company focused on developing innovative digital solutions across multiple domains. Our mission is to leverage technology to solve real-world problems, empower learning, and promote sustainability.
+**Samba Innovations** is a technology company dedicated to developing innovative digital solutions across multiple domains. Our mission is to leverage technology to solve real-world problems, empower learning, and promote sustainability.
 
 ---
 
@@ -15,11 +15,11 @@ Develop smart, user-centric applications that make a meaningful impact in educat
 
 ## 📂 Nossos Projetos / Our Projects
 
-| Projeto / Project | Logo | Descrição / Description |
-|-----------------|------|------------------------|
-| **Samba Edvance** | <img src="imgs/edvance-logo1.png" width="80"/> | Criação e gerenciamento de simulados educacionais para melhorar o aprendizado. / Creation and management of educational simulations and assessments to enhance learning outcomes. |
-| **Samba Flourish** | <img src="imgs/flourish-logo1.png" width="80"/> | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. |
-| **Samba Code** | <img src="imgs/code-logo1.png" width="80"/> | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. |
+| Projeto / Project | Logo | Descrição / Description | Status / Badges |
+|-----------------|------|------------------------|----------------|
+| **Samba Edvance** | <img src="imgs/edvance-logo1.png" width="80"/> | Criação e gerenciamento de simulados educacionais para melhorar o aprendizado. / Creation and management of educational simulations and assessments to enhance learning outcomes. | ![GitHub stars](https://img.shields.io/github/stars/seuusuario/samba-edvance?style=social) ![GitHub issues](https://img.shields.io/github/issues/seuusuario/samba-edvance) ![CI/CD](https://img.shields.io/github/actions/workflow/status/seuusuario/samba-edvance/ci.yml?branch=main) |
+| **Samba Flourish** | <img src="imgs/flourish-logo1.png" width="80"/> | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. | ![GitHub stars](https://img.shields.io/github/stars/seuusuario/samba-flourish?style=social) ![GitHub issues](https://img.shields.io/github/issues/seuusuario/samba-flourish) ![CI/CD](https://img.shields.io/github/actions/workflow/status/seuusuario/samba-flourish/ci.yml?branch=main) |
+| **Samba Code** | <img src="imgs/code-logo1.png" width="80"/> | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. | ![GitHub stars](https://img.shields.io/github/stars/seuusuario/samba-code?style=social) ![GitHub issues](https://img.shields.io/github/issues/seuusuario/samba-code) ![CI/CD](https://img.shields.io/github/actions/workflow/status/seuusuario/samba-code/ci.yml?branch=main) |
 
 ---
 
