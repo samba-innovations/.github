@@ -1,4 +1,4 @@
-# Samba Innovations !<img src="imgs/invtns-logo1.png" width="80"/>
+# Samba Innovations !<img src="imgs/invtns-logo1.png" width="10"/>
 
 **Samba Innovations** é uma empresa de tecnologia focada em criar soluções digitais inovadoras em diversos setores. Nosso objetivo é usar tecnologia para resolver problemas reais, potencializar a educação e promover a sustentabilidade.
 
