@@ -73,5 +73,5 @@ Convidamos desenvolvedores, educadores e parceiros a se juntarem à nossa jornad
 
   ---
   
-  *© 2026 Samba Innovations. All rights reserved.*
+  *© 2026 samba innovations. All rights reserved.*
 </div>
