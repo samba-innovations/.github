@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imgs/innvtns-logotipo.png" alt="samba innovations Logo" width="220" />
+  <img src="imgs/invtns-logo1.png" alt="samba innovations Logo" width="220" />
   <h1>samba innovations</h1>
   <p><strong>Transformando o Futuro através de Soluções Inteligentes e Sustentáveis</strong></p>
   <p><em>Engineering the Future through Intelligent and Sustainable Solutions</em></p>
@@ -27,8 +27,8 @@ Utilizamos tecnologia de ponta para resolver desafios reais em diferentes setore
 
 | Projeto / Project | Branding | Descrição / Description | Status |
 |:---:|:---:|:---|:---:|
-| **Samba Edvance** | <img src="imgs/innvtns-logotipo.png" width="60"/> | Gestão de simulados educacionais de alta performance. / *High-performance educational assessment management.* | ![Active](https://img.shields.io/badge/Status-Active-emerald) |
-| **Samba Flourish** | <img src="imgs/innvtns-logotipo.png" width="60"/> | Monitoramento ambiental inteligente via IoT. / *Smart environmental monitoring via IoT.* | ![Alpha](https://img.shields.io/badge/Status-Alpha-orange) |
+| **Samba Edvance** | <img src="imgs/edvance-logo1.png" width="60"/> | Gestão de simulados educacionais de alta performance. / *High-performance educational assessment management.* | ![Active](https://img.shields.io/badge/Status-Active-emerald) |
+| **Samba Flourish** | <img src="imgs/flourish-logo1.png" width="60"/> | Monitoramento ambiental inteligente via IoT. / *Smart environmental monitoring via IoT.* | ![Alpha](https://img.shields.io/badge/Status-Alpha-orange) |
 | **Samba Code** | <img src="imgs/code-logo1.png" width="80"/> | Gestão integrada de ocorrências para escolas. / *Integrated occurrence management for schools.* | ![Beta](https://img.shields.io/badge/Status-Beta-blue) |
 
 ---
