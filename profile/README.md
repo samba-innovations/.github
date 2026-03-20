@@ -1,48 +1,77 @@
-# <img src="imgs/invtns-logo1.png" width="25"/> Samba Innovations
-
-**Samba Innovations** é uma empresa de tecnologia dedicada a criar soluções digitais inovadoras em diversos setores. Nosso objetivo é usar tecnologia para resolver problemas reais, potencializar a educação e promover a sustentabilidade.
-
-**Samba Innovations** is a technology company dedicated to developing innovative digital solutions across multiple domains. Our mission is to leverage technology to solve real-world problems, empower learning, and promote sustainability.
-
----
-
-## 🌟 Missão / Mission
-
-Criar aplicações inteligentes e centradas no usuário que gerem impacto positivo na educação, monitoramento ambiental e gestão interdisciplinar.  
-Develop smart, user-centric applications that make a meaningful impact in education, environmental monitoring, and interdisciplinary management.
-
----
-
-## 📂 Nossos Projetos / Our Projects
-
-| Projeto / Project | Logo | Descrição / Description | Status / Badges |
-|-----------------|------|------------------------|----------------|
-| **Samba Edvance** | <img src="imgs/edvance-logo1.png" width="80"/> | Criação e gerenciamento de simulados educacionais para melhorar o aprendizado. / Creation and management of educational simulations and assessments to enhance learning outcomes. | ![GitHub stars](https://img.shields.io/github/stars/samba-innovations/samba-edvance?style=social) ![GitHub issues](https://img.shields.io/github/issues/samba-innovations/samba-edvance) ![CI/CD](https://img.shields.io/github/actions/workflow/status/samba-innovations/samba-edvance/ci.yml?branch=main) |
-| **Samba Flourish** | <img src="imgs/flourish-logo1.png" width="80"/> | Monitoramento e gestão de áreas verdes usando IoT e sensores inteligentes. / Monitoring and managing green areas using IoT and smart sensor technologies. | ![GitHub stars](https://img.shields.io/github/stars/samba-innovations/samba-flourish?style=social) ![GitHub issues](https://img.shields.io/github/issues/samba-innovations/samba-flourish) ![CI/CD](https://img.shields.io/github/actions/workflow/status/samba-innovations/samba-flourish/ci.yml?branch=main) |
-| **Samba Code** | <img src="imgs/code-logo1.png" width="80"/> | Gerenciamento de ocorrências e eventos interdisciplinares. / Management of interdisciplinary occurrences, events, and organizational workflows. | ![GitHub stars](https://img.shields.io/github/stars/samba-innovations/samba-code?style=social) ![GitHub issues](https://img.shields.io/github/issues/samba-innovations/samba-code) ![CI/CD](https://img.shields.io/github/actions/workflow/status/samba-innovations/samba-code/ci.yml?branch=main) |
+<div align="center">
+  <img src="public/imgs/innvtns-logotipo.svg" alt="Samba Innovations Logo" width="220" />
+  <h1>Samba Innovations</h1>
+  <p><strong>Transformando o Futuro através de Soluções Inteligentes e Sustentáveis</strong></p>
+  <p><em>Engineering the Future through Intelligent and Sustainable Solutions</em></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Innovation-Focused-blueviolet?style=for-the-badge&logo=rocket" alt="Innovation" />
+    <img src="https://img.shields.io/badge/Sustainability-Minded-emerald?style=for-the-badge&logo=leaf" alt="Sustainability" />
+    <img src="https://img.shields.io/badge/Education-Driven-orange?style=for-the-badge&logo=book" alt="Education" />
+  </p>
+</div>
 
 ---
 
-## 💡 Valores / Values
+## 🌟 Nossa Missão | Our Mission
 
-- **Inovação / Innovation:** Estamos sempre explorando novas tecnologias e ideias. / We constantly explore new technologies and ideas.  
-- **Sustentabilidade / Sustainability:** Criamos soluções que impactam positivamente o meio ambiente. / We aim to create solutions that positively impact the environment.  
-- **Colaboração / Collaboration:** Trabalho em equipe e compartilhamento de conhecimento são essenciais. / Teamwork and shared knowledge are at the core of everything we do.  
-- **Excelência / Excellence:** Buscamos soluções confiáveis, eficientes e de alta qualidade. / We strive for high-quality, reliable, and efficient solutions.  
-
----
-
-## 🤝 Como se envolver / Get Involved
-
-Convidamos colaboradores, parceiros e interessados! Confira os repositórios individuais e participe da nossa comunidade.  
-We welcome contributors, collaborators, and partners! Check out the individual repositories and join our community.
+> [!IMPORTANT]
+> **Português:** Criar aplicações inteligentes e centradas no usuário que gerem impacto positivo na educação, monitoramento ambiental e gestão interdisciplinar.  
+> **English:** Develop smart, user-centric applications that make a meaningful impact in education, environmental monitoring, and interdisciplinary management.
 
 ---
 
-## 📬 Contato / Contact
+## 📂 Ecossistema de Projetos | Project Ecosystem
 
-Para dúvidas, parcerias ou informações gerais:  
-For inquiries, collaborations, or general questions:  
+Utilizamos tecnologia de ponta para resolver desafios reais em diferentes setores.
 
-**Email:** contact@sambainnovations.com *(exemplo / example)*  
-**Website:** [www.sambainnovations.com](https://www.sambainnovations.com) *(exemplo / example)*
+| Projeto / Project | Branding | Descrição / Description | Status |
+|:---:|:---:|:---|:---:|
+| **Samba Edvance** | <img src="public/imgs/innvtns-logotipo.svg" width="60"/> | Gestão de simulados educacionais de alta performance. / *High-performance educational assessment management.* | ![Active](https://img.shields.io/badge/Status-Active-emerald) |
+| **Samba Flourish** | <img src="public/imgs/innvtns-logotipo.svg" width="60"/> | Monitoramento ambiental inteligente via IoT. / *Smart environmental monitoring via IoT.* | ![Alpha](https://img.shields.io/badge/Status-Alpha-orange) |
+| **Samba Code** | <img src="public/imgs/code-logo1.png" width="80"/> | Gestão integrada de ocorrências para escolas. / *Integrated occurrence management for schools.* | ![Beta](https://img.shields.io/badge/Status-Beta-blue) |
+
+---
+
+## 💡 Nossos Valores | Our Values
+
+<div align="left">
+
+### 🚀 Inovação / Innovation
+Estamos sempre explorando novas tecnologias e ideias para criar o amanhã.  
+*We constantly explore new technologies and ideas to build tomorrow.*
+
+### 🍃 Sustentabilidade / Sustainability
+Criamos soluções que respeitam e impactam positivamente o meio ambiente.  
+*We aim to create solutions that respect and positively impact the environment.*
+
+### 🤝 Colaboração / Collaboration
+Trabalho em equipe e compartilhamento de conhecimento são nossa base.  
+*Teamwork and shared knowledge are at the core of everything we do.*
+
+### 💎 Excelência / Excellence
+Soluções confiáveis, eficientes e de altíssima qualidade visual e técnica.  
+*High-quality, reliable, and visually stunning solutions.*
+
+</div>
+
+---
+
+## 🤝 Colaboração | Get Involved
+
+Convidamos desenvolvedores, educadores e parceiros a se juntarem à nossa jornada. Confira nossos repositórios e participe da comunidade!  
+*We welcome developers, educators, and partners! Check out our repositories and join our community.*
+
+---
+
+## 📬 Contato | Contact
+
+<div align="center">
+  
+  **Email:** [contact@sambainnovations.com](mailto:contact@sambainnovations.com)  
+  **Website:** [www.sambainnovations.com](https://www.sambainnovations.com)
+
+  ---
+  
+  *© 2026 Samba Innovations. All rights reserved.*
+</div>
